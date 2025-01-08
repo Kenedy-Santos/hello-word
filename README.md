@@ -47,4 +47,4 @@ Aqui estão alguns recursos para aprender mais sobre as linguagens apresentadas:
 Documentação Oficial do Python
 Rede de desenvolvedores Mozilla (JavaScript)
 W3Schools (HTML e CSS)
-[ Documentação do Java] ( https://docs.oracle
+[ Documentação do Java] ( https://docs.oracle)
